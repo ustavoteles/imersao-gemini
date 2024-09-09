@@ -1,6 +1,6 @@
-## JiuJitser: Encontre seu Kimono Perfeito! 
+## JiuJitser: Encontre seu Kimono Perfeito! --IMERSÃO ALURA GOOGLE GEMINI
 
-**O que é o JiuJitser?** --IMERSÃO ALURA GOOGLE GEMINI
+**O que é o JiuJitser?** 
 
 O JiuJitser é um buscador online que te ajuda a encontrar o kimono ideal para a sua prática de Jiu-Jitsu. Com uma interface simples e intuitiva, você pode pesquisar por marca, modelo, características e até mesmo por localização. 
 
