@@ -19,7 +19,7 @@ body {
 h1 {
   font-size: 2.5rem; /* Tamanho da fonte */
   color: #222831; /* Cor do texto */
-  text-align: center; /* Alinha o texto ao centro */
+  text-align: left; /* Alinha o texto ao centro */
   letter-spacing: 0.4rem; /* Espaçamento entre letras */
 }
 
@@ -63,7 +63,7 @@ section button:hover {
 /* Estiliza a caixa de resultados da pesquisa */
 .resultados-pesquisa {
   width: 60rem; /* Largura máxima da caixa de resultados */
-  height: 46vh; /* Altura máxima da caixa de resultados */
+  height: 43vh; /* Altura máxima da caixa de resultados */
   overflow-y: auto; /* Adiciona rolagem vertical se necessário */
   margin-top: 1rem; /* Espaçamento acima da caixa de resultados */
   padding: 1rem; /* Espaçamento interno */
@@ -77,12 +77,15 @@ section button:hover {
   padding: 1rem; /* Espaçamento interno */
   margin-bottom: 1rem; /* Espaçamento abaixo dos itens */
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Sombra leve */
+  text-align: left;
+  padding-top: 0rem;
 }
 
 /* Estiliza os títulos dentro dos itens de resultado */
 .item-resultado h2 {
   font-size: 1.5rem; /* Tamanho da fonte */
   color: #222831; /* Cor do texto */
+  text-align: left;
 }
 
 /* Estiliza os links dentro dos itens de resultado */
